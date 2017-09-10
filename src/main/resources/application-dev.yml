@@ -1,0 +1,6 @@
+server: 
+ port: 8082
+ context-path: /boot
+girl: 
+ cupSize: B
+ age: 100999
